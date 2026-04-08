@@ -1,0 +1,4 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+19:53:05	88/88	---M--	200	added ('OK')	text/plain	etag:%2258-6424f4f0-ab7c68b3694fd6cd;;;%22	https://hpbeautys.com/robots.txt		(from )
+19:53:18	201270/201270	---MCZ	200	added ('OK')	text/html	date:Wed,%2008%20Apr%202026%2014:23:16%20GMT	https://hpbeautys.com/	D:/realityfaces/House%20of%20Bumble%20Hair%20Salon/hpbeautys.com/index.html	(from )
+19:53:19	609/609	---M-Z	200	added ('OK')	application/json	etag:%22261-645a88a2-5832d6b6b8dbbd0c;gz%22	https://hpbeautys.com/wp-content/themes/kitring/assets/dist/json/manifest.json	D:/realityfaces/House%20of%20Bumble%20Hair%20Salon/hpbeautys.com/wp-content/themes/kitring/assets/dist/json/manifest.json	(from https://hpbeautys.com/)
