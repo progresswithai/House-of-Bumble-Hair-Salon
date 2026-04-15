@@ -1,4 +1,0 @@
-# HTTrack Website Copier Cookie File
-# This file format is compatible with Netscape cookies
-hpbeautys.com	TRUE	/	FALSE	1999999999	PHPSESSID	85arc6v8b86mjo1dvpod31g2kf
-
